@@ -1,0 +1,4 @@
+name = Sweet
+description = A colorful Gtk3.20+ theme
+version = 0.1
+cursors_directory = hyprcursors
